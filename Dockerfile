@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-MAINTAINER Your Name "youremail@domain.tld"
+MAINTAINER Judith Zhao "judithzhao@outlook.com" 
 
 RUN apt-get update -y && \
     apt-get install -y python3-pip python3-dev
